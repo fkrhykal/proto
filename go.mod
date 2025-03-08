@@ -1,4 +1,4 @@
-module github.com/fkrhykal/connect-proto
+module github.com/fkrhykal/proto
 
 go 1.23.6
 
